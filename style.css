@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+* {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+}
+
+
+h1,
+h2,
+h3,span {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.container{
+    max-width:82%;
+}
+
+button{
+  background:linear-gradient(#A4BC46,#85A019);
+}
+
